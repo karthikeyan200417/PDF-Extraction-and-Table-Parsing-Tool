@@ -31,11 +31,14 @@ Ensure you have the following installed on your system:
    git clone https://github.com/karthikeyan200417/PDF-Extraction-and-Table-Parsing-Tool.git
    cd pdf-extraction-tool
 2.**Create a virtual environment**:
-python -m venv venv
-source venv/bin/activate  
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  
 3.**Install dependencies**:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 4.**Run the application**:
-streamlit run Test1.py
+   ```bash
+   streamlit run Test1.py
 
 
