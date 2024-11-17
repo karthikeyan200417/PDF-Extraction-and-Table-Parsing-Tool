@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
 2.**Create a virtual environment**:
    ```bash
    python -m venv venv
-   source venv/bin/activate  
+   source venv/bin/activate
 3.**Install dependencies**:
    ```bash
    pip install -r requirements.txt
